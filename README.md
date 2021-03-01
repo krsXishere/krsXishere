@@ -1,4 +1,4 @@
-### Hi, I'm Ali 👋
+### Hi, I'm Krisna 👋
 
 ---
 <p align="center">
@@ -9,9 +9,9 @@
 
 <img width="20%" align="right" alt="Github" src="https://media.giphy.com/media/oFubGlAHTl57oFMqyi/giphy.gif" />
 
-- 🌱 I’m currently learning `javascript`, `php`, `css`, `html`, and `mysql`.
+- 🌱 I’m currently learning `C`, `C++`, and `html`.
 - 🤔 I’m looking for help with [Google](https://google.com)
-- 📫 How to reach me: [Instagram](https://instagram.com/alixcpp) | [Email](mailto:alixcpp@pm.me)
-- ⚡ Fun fact: I've never had an iPhone.
+- 📫 How to reach me: [Instagram](https://instagram.com/krsxishere) | [Email](krisnapurnama28@gmail.com)
+- ⚡ Fun fact: Hope me be a programmer🙏
 
 ---

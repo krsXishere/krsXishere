@@ -2,12 +2,12 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/YnBjakPy38s9Y8SRvA/giphy.gif" width="30%"><br>
+  <img src="https://media.giphy.com/media/9KCPkAcRqU9j2/giphy.gif" width="30%"><br>
 </p>
 
 ---
 
-<img width="20%" align="right" alt="Github" src="https://media.giphy.com/media/oFubGlAHTl57oFMqyi/giphy.gif" />
+<img width="20%" align="right" alt="Github" src="https://media.giphy.com/media/S8Nk7ygkbqD4c/giphy.gif" />
 
 - 🌱 I’m currently learning `C`, `C++`, and `html`.
 - 🤔 I’m looking for help with [Google](https://google.com)

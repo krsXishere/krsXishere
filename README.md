@@ -17,10 +17,10 @@
 ---
 ## Reach me at:
 
-[<img width="27px" src="https://raw.githubusercontent.com/krsXishere/krsXishere/main/assets/telegram.png" />](https://t.me/KrsXishere)
+[<img width="27px" src="https://img.icons8.com/nolan/64/telegram-app.png"/>](https://t.me/KrsXishere)
 
-[<img width="20px" src="https://raw.githubusercontent.com/krsXishere/krsXishere/main/assets/protonmail.png" />](mailto: krisnapurnama28@gmail.com)
+[<img width="20px" src="https://img.icons8.com/nolan/64/email.png"/>](mailto: krisnapurnama28@gmail.com)
 
-[<img width="26px" src="https://raw.githubusercontent.com/krsXishere/krsXishere/main/assets/twitter.png" />](https://twitter.com/KrsnaZx)
+[<img width="26px" src="https://img.icons8.com/nolan/64/twitter.png"/>](https://twitter.com/KrsnaZx)
 
 ---

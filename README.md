@@ -1,4 +1,4 @@
-### Hi, I'm Krisna 👋
+### Hi, I'm Ikis 👋
 
 ---
 <p align="center">

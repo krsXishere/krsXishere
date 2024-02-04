@@ -9,7 +9,7 @@
 
 <img width="20%" align="right" alt="Github" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
 
-- 🌱 I’m currently learning `C`, `C++`, `C#`, `Java` and `Flutter`.
+- 🌱 I’m currently learning `C`, `C++`, `C#`, `Java`, `Laravel` and `Flutter`.
 - 🤔 I’m looking for help with [Google](https://google.com) and [Stackoverflow](https://stackoverflow.com
 )
 - 📫 How to reach me: [Instagram](https://instagram.com/krsxishere) | [Email](krisnapurnama28@gmail.com)

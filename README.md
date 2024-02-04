@@ -13,7 +13,6 @@
 - 🤔 I’m looking for help with [Google](https://google.com) and [Stackoverflow](https://stackoverflow.com
 )
 - 📫 How to reach me: [Instagram](https://instagram.com/krsxishere) | [Email](krisnapurnama28@gmail.com)
-- ⚡ Fun fact: Hope me be a programmer🙏
 
 ---
 ## Reach me at:

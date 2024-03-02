@@ -33,4 +33,4 @@ Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
 Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
 
 ## Statistik
-![KrsXishere GitHub stats](https://github-readme-stats.vercel.app/api?username=KrsXishere&show_icons=true&theme=radical)
+![KrsXishere GitHub stats](https://github-readme-stats.vercel.app/api?username=KrsXishere&show_icons=true&theme=dracula)

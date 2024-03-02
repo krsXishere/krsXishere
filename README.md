@@ -1,6 +1,6 @@
 ## Tentang Saya
 
-Selamat datang di profil GitHub saya! Saya seorang dosen dengan spesialisasi dalam **Flutter Developer** dan **Backend Developer**. Dengan latar belakang saya sebagai alumni dari SMKN 1 Sumedang dan memiliki pengalaman sebagai juara Lomba Kompetensi Siswa, saya yakin saya dapat berkembang lebih pesat di bidang ini.
+Selamat datang di profil GitHub saya! Saya seorang mahasiswa dengan spesialisasi dalam **Flutter Developer** dan **Backend Developer**. Dengan latar belakang saya sebagai alumni dari SMKN 1 Sumedang dan memiliki pengalaman sebagai juara Lomba Kompetensi Siswa, saya yakin saya dapat berkembang lebih pesat di bidang ini.
 
 ## Kepakaran
 

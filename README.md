@@ -5,7 +5,7 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa dengan spesialisasi
 ## Kepakaran
 
 - **Flutter Developer**: Pengalaman dalam membuat aplikasi di semua platform menggunakan framework Flutter.
-- **Backend Developer**: Keahlian dalam membuat Restful API menggunakan bahasa pemrograman PHP dengan framework Flutter.
+- **Backend Developer**: Keahlian dalam membuat Restful API menggunakan bahasa pemrograman PHP dengan framework Laravel.
 - **Desktop Developer**: Keahlian membuat aplikasi desktop menggunakan bahasa pemrograman C# dengan framework .NET.
 
 ## Pendidikan

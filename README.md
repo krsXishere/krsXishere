@@ -10,7 +10,7 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa dengan spesialisasi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dotnet,firebase,laravel,c,cs,cpp,postman,visualstudio,vscode,nodejs,vite" />
+    <img src="https://skillicons.dev/icons?i=flutter,visualstudio,vscode,nodejs,vite,firebase,laravel,java,dotnet,c,cs,cpp,postman" />
   </a>
 </p>
 

@@ -33,7 +33,7 @@ Saya telah berkontribusi pada berbagai proyek yang melibatkan analisis data komp
 
 Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
 
-- Email: [krisna.purnama.tif423@polban.ac.id](mailto:krisna.purnama.tif423@polban.ac.id)
+- Email: [lxghozt28@gmail.com](mailto:lxghozt28@gmail.com)
 - LinkedIn: [Krisna Purnama](www.linkedin.com/in/krisna-purnama-b58058294)
 
 Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!

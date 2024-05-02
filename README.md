@@ -8,6 +8,12 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa dengan spesialisasi
 - **Backend Developer**: Keahlian dalam membuat Restful API menggunakan bahasa pemrograman PHP dengan framework Laravel.
 - **Desktop Developer**: Keahlian membuat aplikasi desktop menggunakan bahasa pemrograman C# dengan framework .NET.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dotnet,firebase,laravel,c,cs,cpp,postman,visualstudio,vscode,nodejs,vite" />
+  </a>
+</p>
+
 ## Pendidikan
 
 - Menempuh studi di Politeknik Negeri Bandung Program Studi Sarjana Terapan Teknik Informatika
